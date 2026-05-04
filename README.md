@@ -46,5 +46,5 @@ Deployed via **Netlify** on a dedicated subdomain (`hunar.mbsys.co.in`), fully i
 ---
 
 <div align="center">
-  <p>Crafting Spaces. Defining Hunar. © 2024</p>
+  <p>Crafting Spaces. Defining Hunar. © 2026</p>
 </div>
